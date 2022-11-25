@@ -1,0 +1,12 @@
+Bug report:
+1) Bug ID
+2) Summary
+3) Incident description
+4) Steps
+5) Actual result
+6) Expected result
+7) Envinronment
+8) Severity
+9) Priority
+10) Reported by
+11) Status
