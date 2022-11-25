@@ -1,0 +1,12 @@
+Checklist:
+   1) Autorization via e-mail
+   2) Autorization via Google account
+   3) Autorization via local account
+   4) Autorization via e-mail with erong password
+   5) Autorization via Google account with wrong password
+   6) Autorization via local account
+
+
+
+
+
